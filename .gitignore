@@ -1,1 +1,3 @@
 *.log
+Logs/*
+!jopa_logs.log
